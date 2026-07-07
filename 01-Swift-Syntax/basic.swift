@@ -1,6 +1,7 @@
 // constant / variable declaration
 // constant or let is used to declare a value that cannot be changed after it is set.
 let firstName = "raihan"
+firstName = "udin"
 
 // variable is the opposite of constant, that can be changed after it is set
 var lastName = "zhaky"
@@ -67,16 +68,14 @@ print(distribution(9, 2))
 
 // comment this code to see the different
 // if u want return a value, u must also specify the return type, otherwise the function will be treated as "Void" meaning it does not return a specific value.
-func multiplication (_ g: Int, _ h: Int) {
-    return g * h
-}
+//func multiplication (_ g: Int, _ h: Int) {
+//    return g * h
+//}
 
-print(multiplication(10, 2))
+// print(multiplication(10, 2))
 
-// this is the correct example if u want to declare function without a return type
-    print("my mother name is \("udin")")
-}
+// // this is the correct example if u want to declare function without a return type
+//     print("my mother name is \("udin")")
+// }
 
-motherName(name: "Udin")
-
-
+// motherName(name: "Udin")
